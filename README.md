@@ -60,8 +60,8 @@ pip install -r requirements.txt
 ```
 
 4. Download the model files:
-- **Model**: [Download v7_plus_distracted_driver.keras (41MB)](https://github.com/Yash-2808/Distracted-Driver-Detection-using-deep-learning/releases/download/v1.0/v7_plus_distracted_driver.keras)
-- **Labels**: [Download labels.pkl](https://github.com/Yash-2808/Distracted-Driver-Detection-using-deep-learning/releases/download/v1.0/labels.pkl)
+- **Model**: [Download v7_plus_distracted_driver.keras (41MB)](https://github.com/harshita547/Distracted-Driver-AI-using-Deep-Learning-and-Computer-Vission/blob/main/v7_plus_distracted_driver.keras)
+- **Labels**: [Download labels.pkl](https://github.com/harshita547/Distracted-Driver-AI-using-Deep-Learning-and-Computer-Vission/blob/main/labels.pkl)
 
 5. Place the downloaded files in the project directory:
 ```
